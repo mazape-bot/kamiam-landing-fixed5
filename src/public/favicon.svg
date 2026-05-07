@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="32" fill="url(#g)"/>
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b5e550"/>
+      <stop offset="100%" stop-color="#7db800"/>
+    </linearGradient>
+  </defs>
+  <text x="32" y="44" font-size="32" text-anchor="middle">🌿</text>
+</svg>
